@@ -1,0 +1,2 @@
+2021/12/12:
+1.Decode EDID block1.
