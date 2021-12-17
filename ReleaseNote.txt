@@ -1,2 +1,6 @@
+2021/12/17:
+1.Fix DDR5 memory show wrong size with dual bank and symmetrical IO Width.
+2.Improve EDID block1 decode function for NB panel.
+
 2021/12/12:
 1.Decode EDID block1.
