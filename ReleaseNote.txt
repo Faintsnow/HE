@@ -1,3 +1,7 @@
+2021/12/29
+1.Add Secured-core PC information(System Summary page).
+2.Add Operating system feature information(System Summary page).
+
 2021/12/26
 1.Add known CEA Extension/Video/Video ID Label(40~107).
 2.Update ACPI function.
