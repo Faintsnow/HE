@@ -1,4 +1,4 @@
-HE - Hardware Read & Write Utility Copyright 2009-2021 Faintsnow
+HE - Hardware Read & Write Utility Copyright 2009-2022 Faintsnow
 
 Introduction
 
