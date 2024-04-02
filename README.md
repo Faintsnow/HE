@@ -1,5 +1,7 @@
 HE - Hardware Read & Write Utility Copyright 2009-2022 Faintsnow
 
+Visit http://hwrwdrv.phpnet.us to get the latest version.
+
 Introduction
 
 HE - Hardware Read & Write utility is a powerful utility for hardware engineers, BIOS engineers, driver developers, QA engineers, performance test engineers, diagnostic engineers… etc.
