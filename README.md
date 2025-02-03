@@ -1,4 +1,4 @@
-HE - Hardware Read & Write Utility Copyright 2009-2024 Faintsnow
+HE - Hardware Read & Write Utility Copyright 2008-2025 Faintsnow
 
 Visit http://hwrwdrv.phpnet.us to get the latest version.
 
