@@ -1,6 +1,6 @@
 HE - Hardware Read & Write Utility Copyright 2008-2025 Faintsnow
 
-Visit http://hwrwdrv.phpnet.us to get the latest version.
+Visit http://hwrwdrv.blogspot.com to get the latest version.
 
 Introduction
 
