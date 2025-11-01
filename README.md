@@ -1,4 +1,4 @@
-HE - Hardware Read & Write Utility Copyright 2008-2025 Faintsnow
+HE - Hardware Read & Write Utility Copyright 2008-2026 Faintsnow
 
 Visit http://hwrwdrv.blogspot.com to get the latest version.
 
