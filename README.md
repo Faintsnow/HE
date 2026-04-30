@@ -1,6 +1,6 @@
 HE - Hardware Read & Write Utility Copyright 2008-2026 Faintsnow
 
-Visit [http://hwrwdrv.blogspot.com](https://gitcode.com/Parliament/SE) to get the latest version.
+Visit [https://gitcode.com/Parliament/SE](https://gitcode.com/Parliament/SE) to get the latest version.
 
 Introduction
 
