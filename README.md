@@ -1,3 +1,5 @@
+因为本程序反复被Windows安全中心拦截, 已停止更新! 感谢微软!!!
+
 HE - Hardware Read & Write Utility Copyright 2008-2026 Faintsnow
 
 Visit [https://gitcode.com/Parliament/SE](https://gitcode.com/Parliament/SE) to get the latest version.
